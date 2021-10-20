@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>555665792916-eco9mirmv6mchgts452qjq9e3jc86bg5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.555665792916-eco9mirmv6mchgts452qjq9e3jc86bg5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyConkDIXF4jKcYrs8raBodTErMo3ko6DWw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>555665792916</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.facedetect.facedetect</string>
+	<key>PROJECT_ID</key>
+	<string>facedetectapp-d8031</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facedetectapp-d8031.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:555665792916:ios:5dd2b1ffebcdba6a813981</string>
+</dict>
+</plist>
