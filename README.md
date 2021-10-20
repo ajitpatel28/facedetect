@@ -1,6 +1,6 @@
 # facedetect
 
-A new Flutter project.
+A Real Time Face Detection app designed with flutter using firebased ml vision
 
 ## Getting Started
 
